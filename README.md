@@ -55,7 +55,7 @@ These stable builds exist so that the end user can get a more **enjoyable and st
 If you are planning to contribute or just want to learn more about this project please read through our [documentation]([docs/README.md](https://github.com/fsegurai/Ryujinx/blob/main/README.md)).
 
 You can find the latest stable release [here](https://github.com/fsegurai/Ryujinx/releases/latest).
-Canary builds are compiled automatically for each commit on the main branch.
+Canary builds are compiled automatically for each commit on the `canary` branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, these builds **may be unstable or completely broken**.
 These canary builds are only recommended for experienced users.
 You can find the latest canary release [here](https://github.com/fsegurai/Ryujinx-Canary/releases/latest).
